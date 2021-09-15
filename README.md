@@ -1,2 +1,5 @@
 # Hello-world
-Just a repository
+
+hello people
+
+mac here i like programming and taking on projects
